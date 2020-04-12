@@ -1,5 +1,7 @@
-'''this is my first module lol
-nice
+'''
+import morsenary
+x = 'dsadasdas'                                           # example usage
+print(morsenary.convert(x, 'b', spaces=True, beep=False)
 '''
 
 
